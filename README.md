@@ -1,10 +1,10 @@
 <h1 align="center">Hey there! I'm Ammar Azam 👋 </h1>
 <h3> About Me: </h3><br>
--Software Engineer at Datum Brain.
--Exploring new technologies and developing software solutions and quick hacks.
--I’m currently working on backend as Golang Developer.
--Learning more about Backend Development.
--Pursuing Competitive Programming as hobbies/side hustles.
+-Software Engineer at Datum Brain.<br>
+-Exploring new technologies and developing software solutions and quick hacks.<br>
+-I’m currently working on backend as Golang Developer.<br>
+-Learning more about Backend Development.<br>
+-Pursuing Competitive Programming as hobbies/side hustles. <br>
 
 <!--
 **Ammar022/Ammar022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
