@@ -8,25 +8,25 @@
 
 # Tech Stack:
 ### Programming Language
-!Golang
++ Golang
 ### Databases
-!MySQL
-!Postgres
-!MongoDB
-!Redis
-!Clickhouse
-!Grafana
-### OS
-!Linux
-!MacOS
-### Design
-!Canva
++ MySQL
++ Postgres
++ MongoDB
++ Redis
++ Clickhouse
++ Grafana
+### Operating Systems
++ Linux
++ MacOS
+### Designing Tool
++ Canva
 ### Other
-!Docker
-!Shell Scripting
-!Ansible
-!Postman
-!Dbeaver
++ Docker
++ Shell Scripting
++ Ansible
++ Postman
++ Dbeaver
 
 <!--
 **Ammar022/Ammar022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
