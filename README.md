@@ -1,12 +1,12 @@
-<h6 align="center">👋 Hey there! I'm Ammar Azam from Pakistan. I love building web backends & I believe in User Superamacy. Apart from the development side of it, I really like to brainstorm the backend and the science behind it.</h6>
-<h3> About Me: </h3><br>
+<h4 align="center">👋 Hey there! I'm Ammar Azam from Pakistan. I love building web backends & I believe in User Superamacy. Apart from the development side of it, I really like to brainstorm the backend and the science behind it.</h4>
+## About Me: 
 - Software Engineer at Datum Brain.<br>
 - Exploring new technologies and developing software solutions and quick hacks.<br>
 - I’m currently working on backend as Golang Developer.<br>
 - Learning more about Backend Development.<br>
 - Pursuing Competitive Programming as hobbies/side hustles. <br>
 
-# Tech Stack:
+## Tech Stack:
 ### Programming Language
 + Golang
 ### Databases
