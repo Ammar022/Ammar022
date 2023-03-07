@@ -25,6 +25,8 @@
 + Docker
 + Shell Scripting
 + Ansible
++ Nginx
++ SSL
 + Postman
 + Dbeaver
 
