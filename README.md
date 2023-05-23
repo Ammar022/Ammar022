@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-15810
-Fork on GitHub
-4368
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi, I'm Muhammad Ammar Azan</h1>
 <h3 align="center">A passionate Backend Developer from Lahore,Pakistan. I love building web backends & I believe in User Superamacy. Apart from the development side of it, I really like to brainstorm the backend and the science behind it.</h3>
 
