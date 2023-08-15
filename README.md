@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Ammar Azan</h1>
+<h1 align="center">Hi, I'm Muhammad Ammar Azam</h1>
 <h3 align="center">A passionate Backend Developer from Lahore,Pakistan. I love building web backends & I believe in User Superamacy. Apart from the development side of it, I really like to brainstorm the backend and the science behind it.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
