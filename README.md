@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **different Golang Projects**
 
-- 🌱 I’m currently learning **Scala**
-
 - 💬 Ask me about **Golang**
 
 - 📫 How to reach me **ammarazam17@gmail.com**
